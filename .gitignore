@@ -137,6 +137,7 @@ env.bak/
 venv.bak/
 ML_ing_dep/
 artifacts/
+.vscode/
 
 # Spyder project settings
 .spyderproject
